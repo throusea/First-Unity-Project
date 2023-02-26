@@ -1,0 +1,4 @@
+repository "First Project@throusea@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
